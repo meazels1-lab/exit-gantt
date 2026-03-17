@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Global Exit Survey Task Timeline
     dateFormat  YYYY-MM
